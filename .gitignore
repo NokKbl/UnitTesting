@@ -1,0 +1,13 @@
+*.class
+bin/
+build/
+out/
+# eclipse junk
+.classpath
+.settings
+.project
+# intellij junk
+.idea
+# bluej junk
+*.ctxt
+*.ctext
